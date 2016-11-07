@@ -1,0 +1,10 @@
+TMS.dll#		c$\TVG\Release\Bin\TMS.dll
+DDS Control.exe#	c$\TVG\Release\Bin\DdsControl.exe
+DDS Web Server#		c$\TVG\Release\Bin\ddswebserver.dll
+Contest Web Service#	c$\WebServices\ContestDDSWebService\bin\ContestDDSWebService.dll
+Dds Support#		c$\WebServices\ContestDDSWebService\bin\DdsSupport.dll
+DDS WebService#		c$\WebServices\ContestDDSWebService\bin\DDSWebService.dll
+SGR Data Collector#	c$\TVG\Release\Bin\SGRDataCollector.exe
+SGR Transaction Gateway#	c$\TVG\Release\Bin\SGRTransactionGateway.exe
+Event Notification#	c$\RaceReplay\TVGEventNotificationService\bin\App_Code.dll
+RaceDay Gateway#	c$\RaceReplay\RaceDayGateway\bin\App_Code.dll

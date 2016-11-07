@@ -1,0 +1,4 @@
+username:username
+password:password
+email:email@google.com
+rootdir:\\tvgops\pdxshares\wagerops\Tools\System-Reports
