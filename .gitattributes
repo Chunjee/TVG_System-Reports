@@ -1,6 +1,10 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
+#this project
+Data/**
+config.txt
+
 # Custom for Visual Studio
 *.cs     diff=csharp
 
@@ -16,4 +20,4 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
-Data/**
+
