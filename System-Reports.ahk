@@ -27,9 +27,9 @@ RunAs, %UserName%, %Password%, TVGOPS
 
 ;Run the actual report
 if (A_IsCompiled) {
-	RunWait, % RootDir . "\Background-System-Report.exe",, UseErrorLevel
+	RunWait, % RootDir . "\Background-System-Reports.exe",, UseErrorLevel
 } else {
-	RunWait, %A_ScriptDir%\System-Report.exe,, UseErrorLevel
+	RunWait, %A_ScriptDir%\Background-System-Reports.exe,, UseErrorLevel
 }
 
 ;find the most recent report excel
